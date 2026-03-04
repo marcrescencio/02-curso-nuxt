@@ -1,4 +1,5 @@
 <script lang="ts" setup>
+// SEO Meta tags p/ website
 useSeoMeta({
     title: 'About | Loja de Serviços',
     description: 'Bem Vindo a página principal da Loja de Serviços.',
