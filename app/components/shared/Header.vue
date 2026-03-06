@@ -40,7 +40,7 @@ const responsiveMenu = ref([
 <template>
   <UHeader>
     <template #title>
-      <IconsNuxui class="h-6 w-auto" />
+      <IconsNuxtui class="h-6 w-auto" alt="Logo NuxtUi" loading="hight"/>
     </template>
 
     <UNavigationMenu :items="items" />

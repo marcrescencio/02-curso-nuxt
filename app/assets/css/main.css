@@ -1,6 +1,14 @@
 @import "tailwindcss";
 @import "@nuxt/ui";
 
+@theme {
+  /* Your custom design tokens go here */
+  /* --color-primary: #7d86fb; */
+  /* --ui-primary: #7d86fb; */
+  --ui-radius: 0.5rem;
+  /* --font-display: "Inter", sans-serif; */
+}
+
 /* body {
   background-color: #020420;
   font-family: 'Roboto', sans-serif;
